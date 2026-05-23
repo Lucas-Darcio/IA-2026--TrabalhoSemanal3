@@ -46,7 +46,7 @@ Em modelos puramente estatísticos, como redes neurais tradicionais, o processo 
 
 2. Justo: Em vez de assumir certezas absolutas e penalizar alguém apenas por uma conexão distante em uma rede de transações, a Regressão Logística calibra o "peso" dessa variável.
 
-3. Híbrido: O Prolog estrutura os dados complexos, modelando a realidade relacional, enquanto o Python lida com os ruídos e a incerteza do mundo real calculando as
+3. Híbrido: O Prolog estrutura os dados complexos, modelando a realidade relacional, enquanto o Python lida com os ruídos e a incerteza do mundo real calculando as probabilidades
 
 ## Resultado:
 
